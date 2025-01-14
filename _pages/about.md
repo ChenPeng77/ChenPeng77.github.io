@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "关于我"
+title: "自我简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-我曾在[bilibili](https://www.bilibili.com)**首页推荐项目组**和[腾讯IEG](https://ieg.tencent.com/2023/index.html#screen)**内容推荐项目组**分别完成了超过6个月的实习，积累了丰富的实践经验。
+我是一名香港大学计算机学院的在读研究生，专注于**推荐算法**、**信息检索**、**深度学习**与**机器学习**的研究。  
 
-此外，我还参与了多个与**多模态推荐**、**序列推荐**、**LLM推荐**、**内容推荐**相关的项目和研究，进一步深化了我的专业知识和技能。
+曾在[bilibili](https://www.bilibili.com)**首页推荐项目组**和[腾讯IEG](https://ieg.tencent.com/2023/index.html#screen)**内容推荐项目组**分别完成超过6个月的实习，积累了丰富的工业实践经验。  
 
-以下是我的详细自我介绍，感谢您的时间与阅读。
+参与过多个与**多模态推荐**、**序列推荐**、**LLM推荐**及**内容推荐**相关的项目与研究，持续拓展专业能力。  
+
+感谢您的时间与关注，以下是我的详细介绍。
 
 
