@@ -13,14 +13,16 @@ redirect_from:
 
 非常感谢您的时间与关注，下面是我的详细自我介绍。
 
+___
+
+
 <style>
 hr {
   border-style: none !important;
   border-top-width: 5px !important;
 }
-hr:nth-of-type(2) {
-  border-top-style: dashed !important;
+hr:nth-of-type(1) {
+  border-top-style: double !important;
 }
 </style>
-
 
