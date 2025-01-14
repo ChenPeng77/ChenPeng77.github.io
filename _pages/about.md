@@ -21,24 +21,22 @@ redirect_from:
 
 
 ## 详细介绍
-#### <span id="jump1">腾讯IEG内容推荐实习</span>
+#### <span id="jump1">腾讯IEG - 内容推荐实习</span>
 pass
 
 
-#### <span id="jump2">bilibili首页推荐实习</span>
+#### <span id="jump2">bilibili - 首页推荐实习</span>
 pass
 
 
-#### <span id="jump3">多模态推荐研究项目</span>
+#### <span id="jump3">多模态推荐 - 研究项目</span>
 pass
 
 
-#### <span id="jump4">序列推荐研究项目</span>
+#### <span id="jump4">序列推荐 - 研究项目</span>
 pass
 
 
-#### <span id="jump5">LLM推荐研究项目</span>
+#### <span id="jump5">LLM推荐 - 研究项目</span>
 pass
 
-
-<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
