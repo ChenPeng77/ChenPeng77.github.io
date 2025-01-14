@@ -5,6 +5,8 @@
 # prevent it from being included in the site.
 
 main:
+- title: "自我介绍"
+  url: /about/
   # - title: "Publications"
   #   url: /publications/
 
