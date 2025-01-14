@@ -9,7 +9,7 @@ redirect_from:
 
 * 一名<a href="http://www.cds.hku.hk" target="_blank">香港大学计算机学院</a>的在读研究生，专注于**推荐算法**、**信息检索**与**机器学习**的研究。  
 * 曾在<a href="http://www.bilibili.com" target="_blank">bilibili</a>**首页推荐项目组**与<a href="https://www.tencent.com/zh-cn/" target="_blank">腾讯</a>**IEG内容推荐项目组**分别完成超过6个月的实习
-* 参与过多个与推荐系统相关的项目与研究：**多模态推荐**、**序列推荐**、**LLM推荐**及**内容推荐**
+* 参与过多个与推荐系统相关的项目与研究：**多模态推荐**、**序列推荐**、**LLM推荐**等
 
 非常感谢您的时间与关注，下面是我的详细自我介绍。
 
