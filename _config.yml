@@ -21,7 +21,7 @@ repository               : "chenpeng77/chenpeng77.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "My_photo.png"
+  avatar           : "my_photo.png"
   name             : "陈鹏"
   bio              : "chenpeng_10122022@163.com"
   # location         : "Earth"
