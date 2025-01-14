@@ -22,22 +22,22 @@ redirect_from:
 
 
 ## 详细介绍
-#### <span id="jump1">腾讯IEG - 内容推荐实习</span>
+### <span id="jump1">腾讯IEG - 内容推荐实习</span>
 pass
 
 
-#### <span id="jump2">bilibili - 首页推荐实习</span>
+### <span id="jump2">bilibili - 首页推荐实习</span>
 pass
 
 
-#### <span id="jump3">多模态推荐 - 研究项目</span>
+### <span id="jump3">多模态推荐 - 研究项目</span>
 pass
 
 
-#### <span id="jump4">序列推荐 - 研究项目</span>
+### <span id="jump4">序列推荐 - 研究项目</span>
 pass
 
 
-#### <span id="jump5">LLM推荐 - 研究项目</span>
+### <span id="jump5">LLM推荐 - 研究项目</span>
 pass
 
